@@ -2,8 +2,8 @@
 ##By Logan Medenica
 
 ## Signalis
-![Signalis](https://store.steampowered.com/app/1262350/SIGNALIS/)
+[Signalis](https://store.steampowered.com/app/1262350/SIGNALIS/)
 ## NieR Automata
-![NieR](https://store.steampowered.com/app/524220/NieRAutomata/)
+[Nier](https://store.steampowered.com/app/524220/NieRAutomata/)
 ## To The Moon
-![TTM](https://store.steampowered.com/app/206440/To_the_Moon/)
+[TTM](https://store.steampowered.com/app/206440/To_the_Moon/)
