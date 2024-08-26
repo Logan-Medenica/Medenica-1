@@ -2,8 +2,10 @@
 ##By Logan Medenica
 
 ## Signalis
-[Signalis](https://store.steampowered.com/app/1262350/SIGNALIS/)
+[By Yuri Stern and Barbara Wittmann](https://store.steampowered.com/app/1262350/SIGNALIS/)
 ## NieR Automata
-[Nier](https://store.steampowered.com/app/524220/NieRAutomata/)
+[By Yoko Taro](https://store.steampowered.com/app/524220/NieRAutomata/)
 ## To The Moon
-[TTM](https://store.steampowered.com/app/206440/To_the_Moon/)
+[By Freebird Games](https://store.steampowered.com/app/206440/To_the_Moon/)
+## Omori
+[By OMOCAT](https://store.steampowered.com/app/1150690/OMORI/)
