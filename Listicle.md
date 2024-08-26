@@ -1,5 +1,5 @@
-# A list of games that make me very sad
-## By Logan Medenica
+#A list of games that make me very sad
+##By Logan Medenica
 
 ## Signalis
 ![Signalis](https://store.steampowered.com/app/1262350/SIGNALIS/)
